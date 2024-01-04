@@ -33,15 +33,6 @@ public class parSum {
         executor.execute(runnable);
     }
 
-    private long[] applyCallable(Callable<long[]> callable) {
-        try {
-            return executor.submit(callable).get();
-        } catch (InterruptedException e) {
-            throw new RuntimeException(e);
-        } catch (ExecutionException e) {
-            throw new RuntimeException(e);
-        }
-    }
 
     public void shutdown() {
         executor.shutdown();
