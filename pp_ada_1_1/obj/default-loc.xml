@@ -1,0 +1,98 @@
+<?xml version="1.0"?>
+<Locations>
+  <Project>
+    <vfs_file>D:\uni\parallel programming\pp_ada_1_1\default.gpr</vfs_file>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>D:\uni\parallel programming\parallel_tasks_ada-master\parallel_task.gpr</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 33" >
+      <vfs_project />
+      <vfs_file>D:\uni\parallel programming\parallel_tasks_ada-master\parallel_task.gpr</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>D:\uni\parallel programming\parallel_tasks_ada-master\src\parallel_sum.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>D:\uni\parallel programming\parallel_tasks_ada-master\parallel_task.gpr</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 170" >
+      <vfs_project />
+      <vfs_file>D:\uni\parallel programming\parallel_tasks_ada-master\src\parallel_sum.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>D:\uni\parallel programming\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 170" >
+      <vfs_project />
+      <vfs_file>D:\uni\parallel programming\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 11" line=" 7" >
+      <vfs_project />
+      <vfs_file>D:\uni\parallel programming\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 11" line=" 7" >
+      <vfs_project />
+      <vfs_file>D:\uni\parallel programming\src\parallel_sum.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>D:\uni\parallel programming\pp_ada_1.gpr</vfs_file>
+    </file_marker>
+    <file_marker column=" 19" line=" 4" >
+      <vfs_project />
+      <vfs_file>D:\uni\parallel programming\pp_ada_1.gpr</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 6" >
+      <vfs_project />
+      <vfs_file>D:\uni\parallel programming\pp_ada_1.gpr</vfs_file>
+    </file_marker>
+    <file_marker column=" 33" line=" 130" >
+      <vfs_project />
+      <vfs_file>D:\uni\parallel programming\src\parallel_sum.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 56" line=" 18" >
+      <vfs_project />
+      <vfs_file>D:\uni\parallel programming\src\parallel_sum.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 33" line=" 130" >
+      <vfs_project />
+      <vfs_file>D:\uni\parallel programming\src\parallel_sum.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 17" line=" 126" >
+      <vfs_project />
+      <vfs_file>D:\uni\parallel programming\src\parallel_sum.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 33" line=" 130" >
+      <vfs_project />
+      <vfs_file>D:\uni\parallel programming\src\parallel_sum.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 17" line=" 7" >
+      <vfs_project />
+      <vfs_file>D:\uni\parallel programming\src\parallel_sum.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>D:\uni\parallel programming\src\parallel_sum.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 15" line=" 7" >
+      <vfs_project />
+      <vfs_file>D:\uni\parallel programming\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>D:\uni\parallel programming\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>D:\uni\parallel programming\pp_ada_1_1\default.gpr</vfs_project>
+      <vfs_file>D:\uni\parallel programming\pp_ada_1_1\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker current="true" column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>D:\uni\parallel programming\src\main.adb</vfs_file>
+    </file_marker>
+  </Project>
+</Locations>
